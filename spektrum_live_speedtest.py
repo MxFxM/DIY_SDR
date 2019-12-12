@@ -1,4 +1,3 @@
-from matplotlib import pyplot as plt
 from matplotlib import mlab as mlab
 import matplotlib.animation as animation
 from rtlsdr import RtlSdr
